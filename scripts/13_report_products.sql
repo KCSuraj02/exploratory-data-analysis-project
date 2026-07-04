@@ -7,7 +7,7 @@
 
 	Highlights:
 		1. Gather essential fields such as product names, category, subcategory, and cost.
-		2. Segments product by revenue to identity High-Performers, Mid-Range, or Low-Performers.
+		2. Segments product by revenue to identify High-Performers, Mid-Range, or Low-Performers.
 		3. Aggregate customer-level metrics:
 			- total orders
 			- total sales
